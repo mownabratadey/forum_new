@@ -1,0 +1,71 @@
+{
+    "name": "flarum/flarum",
+    "description": "Delightfully simple forum software.",
+    "type": "project",
+    "keywords": [
+        "forum",
+        "discussion"
+    ],
+    "homepage": "https://flarum.org/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Flarum",
+            "email": "info@flarum.org",
+            "homepage": "https://flarum.org/team"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/flarum/core/issues",
+        "source": "https://github.com/flarum/flarum",
+        "docs": "https://docs.flarum.org/"
+    },
+    "require": {
+        "antoinefr/flarum-ext-money": "^1.2",
+        "antoinefr/flarum-ext-online": "^1.0",
+        "askvortsov/flarum-categories": "^3.0",
+        "askvortsov/flarum-moderator-warnings": "^0.6.1",
+        "askvortsov/flarum-rich-text": "*",
+        "clarkwinkelmann/flarum-ext-emojionearea": "^1.0",
+        "clarkwinkelmann/flarum-ext-predefined-avatars": "*",
+        "darkle/fancybox": "^1.1",
+        "davwheat/flarum-ext-ads": "*",
+        "flarum-lang/russian": "^1.3",
+        "flarum/approval": "*",
+        "flarum/bbcode": "*",
+        "flarum/core": "^1.4",
+        "flarum/emoji": "*",
+        "flarum/flags": "*",
+        "flarum/lang-english": "*",
+        "flarum/likes": "*",
+        "flarum/lock": "*",
+        "flarum/markdown": "*",
+        "flarum/mentions": "*",
+        "flarum/nicknames": "*",
+        "flarum/pusher": "*",
+        "flarum/statistics": "*",
+        "flarum/sticky": "*",
+        "flarum/subscriptions": "*",
+        "flarum/suspend": "*",
+        "flarum/tags": "*",
+        "fof/nightmode": "*",
+        "fof/share-social": "^1.1",
+        "fof/sitemap": "^1.0",
+        "fof/upload": "^1.2",
+        "justoverclock/auto-post-count-badge": "*",
+        "justoverclock/flarum-ext-feedback": "*",
+        "justoverclock/geo-weather": "*",
+        "justoverclock/header-slideshow": "*",
+        "justoverclock/user-statistics": "*",
+        "malago/flarum-achievements": "^0.5.5",
+        "michaelbelgium/flarum-discussion-views": "^7.1",
+        "noriods/auto-more": "^1.0",
+        "v17development/flarum-blog": "^0.6.4",
+        "v17development/flarum-seo": "^1.8",
+        "v17development/flarum-user-badges": "^1.1"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    }
+}

@@ -1,0 +1,52 @@
+:root {
+  --davwheat-ads--discussion-sidebar-position: 80px;
+}
+
+@media @tablet-up {
+  .DiscussionPage-nav,
+  .DiscussionPage-nav > ul {
+    position: sticky;
+    top: var(--davwheat-ads--discussion-sidebar-position);
+  }
+
+  .App {
+    overflow-x: visible;
+  }
+}
+
+// Hide these ad units on mobile
+.davwheat-ad-sidebar,
+.davwheat-ad-discussion-sidebar {
+  display: none;
+}
+
+// And show them on desktop
+@media @desktop-up {
+  .davwheat-ad-sidebar,
+  .davwheat-ad-discussion-sidebar {
+    display: block;
+  }
+}
+
+.Post::after {
+  display: inline-table;
+}
+
+.davwheat-ad {
+  ins.adsbygoogle[data-ad-status="unfilled"] {
+    // Hide unfilled ads
+    display: none !important;
+  }
+
+  &-footer {
+    margin-top: 48px;
+    padding-bottom: 8px;
+    margin-bottom: -50px;
+  }
+
+  &-between-posts {
+    &--after-placeholder {
+      margin-top: 16px;
+    }
+  }
+}

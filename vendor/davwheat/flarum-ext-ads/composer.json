@@ -1,0 +1,38 @@
+{
+    "name": "davwheat/flarum-ext-ads",
+    "description": "Ads support for your Flarum forum.",
+    "keywords": [
+        "flarum",
+        "ads",
+        "adsense",
+        "davwheat"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.2.0"
+    },
+    "authors": [
+        {
+            "name": "David Wheatley",
+            "email": "hi@davwheat.dev",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Davwheat\\Ads\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "davwheat Ad Units",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-ad",
+                "backgroundColor": "#51c5dd",
+                "color": "#000"
+            }
+        }
+    }
+}

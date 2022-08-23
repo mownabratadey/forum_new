@@ -1,0 +1,125 @@
+[23-Aug-2022 15:23:51 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 22
+[23-Aug-2022 15:23:51 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 118
+[23-Aug-2022 15:23:51 UTC] PHP Warning:  include(lib/rightrow.php): failed to open stream: No such file or directory in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 124
+[23-Aug-2022 15:23:51 UTC] PHP Warning:  include(): Failed opening 'lib/rightrow.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 124
+[23-Aug-2022 15:26:23 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 22
+[23-Aug-2022 15:26:23 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 118
+[23-Aug-2022 15:31:40 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 37
+[23-Aug-2022 15:31:40 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 125
+[23-Aug-2022 15:45:20 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 113
+[23-Aug-2022 15:45:20 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 201
+[23-Aug-2022 15:50:30 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 106
+[23-Aug-2022 15:50:30 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 194
+[23-Aug-2022 15:54:35 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 106
+[23-Aug-2022 15:54:35 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 194
+[23-Aug-2022 15:56:26 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 106
+[23-Aug-2022 15:56:26 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 194
+[23-Aug-2022 16:02:50 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 106
+[23-Aug-2022 16:02:50 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 194
+[23-Aug-2022 16:08:21 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 106
+[23-Aug-2022 16:08:21 UTC] PHP Notice:  Undefined variable: msg in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 155
+[23-Aug-2022 16:08:21 UTC] PHP Notice:  Undefined variable: json in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 242
+[23-Aug-2022 16:08:21 UTC] PHP Notice:  Undefined index: id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 255
+[23-Aug-2022 16:09:16 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 106
+[23-Aug-2022 16:09:16 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 194
+[23-Aug-2022 16:09:16 UTC] PHP Notice:  Undefined variable: json in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 242
+[23-Aug-2022 16:09:16 UTC] PHP Notice:  Undefined index: id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 255
+[23-Aug-2022 16:13:09 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 106
+[23-Aug-2022 16:13:09 UTC] PHP Notice:  Undefined variable: msg in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 155
+[23-Aug-2022 16:13:41 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 106
+[23-Aug-2022 16:13:41 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 194
+[23-Aug-2022 16:14:32 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 106
+[23-Aug-2022 16:14:32 UTC] PHP Notice:  Undefined variable: msg in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 155
+[23-Aug-2022 16:17:20 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 106
+[23-Aug-2022 16:17:20 UTC] PHP Notice:  Undefined variable: msg in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 155
+[23-Aug-2022 16:17:32 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 106
+[23-Aug-2022 16:17:32 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 194
+[23-Aug-2022 16:19:14 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 106
+[23-Aug-2022 16:19:14 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 194
+[23-Aug-2022 16:22:27 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 107
+[23-Aug-2022 16:22:27 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 195
+[23-Aug-2022 16:22:48 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 107
+[23-Aug-2022 16:22:48 UTC] PHP Notice:  Undefined variable: msg in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 156
+[23-Aug-2022 16:24:02 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 107
+[23-Aug-2022 16:24:02 UTC] PHP Notice:  Undefined variable: msg in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 156
+[23-Aug-2022 16:24:29 UTC] PHP Warning:  include_once(lib/recaptchalib.php): failed to open stream: No such file or directory in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 16:24:29 UTC] PHP Warning:  include_once(): Failed opening 'lib/recaptchalib.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 16:24:29 UTC] PHP Warning:  Use of undefined constant secret_key - assumed 'secret_key' (this will throw an Error in a future version of PHP) in /home/freeper1/public_html/faucets/send_faucet.php on line 17
+[23-Aug-2022 16:24:37 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 107
+[23-Aug-2022 16:25:19 UTC] PHP Warning:  include_once(lib/recaptchalib.php): failed to open stream: No such file or directory in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 16:25:19 UTC] PHP Warning:  include_once(): Failed opening 'lib/recaptchalib.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 16:25:19 UTC] PHP Warning:  Use of undefined constant secret_key - assumed 'secret_key' (this will throw an Error in a future version of PHP) in /home/freeper1/public_html/faucets/send_faucet.php on line 17
+[23-Aug-2022 16:27:11 UTC] PHP Warning:  include_once(lib/recaptchalib.php): failed to open stream: No such file or directory in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 16:27:11 UTC] PHP Warning:  include_once(): Failed opening 'lib/recaptchalib.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 16:27:11 UTC] PHP Warning:  Use of undefined constant secret_key - assumed 'secret_key' (this will throw an Error in a future version of PHP) in /home/freeper1/public_html/faucets/send_faucet.php on line 17
+[23-Aug-2022 16:28:32 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 151
+[23-Aug-2022 16:31:24 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 151
+[23-Aug-2022 16:36:10 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 152
+[23-Aug-2022 16:38:39 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 152
+[23-Aug-2022 16:39:46 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 152
+[23-Aug-2022 16:40:35 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 152
+[23-Aug-2022 16:46:40 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 152
+[23-Aug-2022 16:50:33 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 152
+[23-Aug-2022 16:52:00 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 16:52:20 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 16:53:03 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 16:55:22 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 16:59:46 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 17:01:24 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 17:01:46 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 17:04:34 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 17:04:34 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 17:24:51 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 17:24:51 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 17:24:57 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 17:24:57 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 17:30:11 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 17:30:11 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 17:35:05 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 17:35:05 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 17:35:34 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 17:35:34 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 17:37:48 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 17:37:48 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 17:54:00 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 17:54:00 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 17:54:03 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 17:54:03 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 18:00:31 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 18:00:31 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 18:13:34 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 18:13:34 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 18:14:39 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 18:14:39 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 18:14:54 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 18:14:54 UTC] PHP Notice:  Undefined variable: msg in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 199
+[23-Aug-2022 18:15:11 UTC] PHP Warning:  include_once(lib/recaptchalib.php): failed to open stream: No such file or directory in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 18:15:11 UTC] PHP Warning:  include_once(): Failed opening 'lib/recaptchalib.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 18:15:11 UTC] PHP Warning:  Use of undefined constant secret_key - assumed 'secret_key' (this will throw an Error in a future version of PHP) in /home/freeper1/public_html/faucets/send_faucet.php on line 17
+[23-Aug-2022 18:15:17 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 18:55:12 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 18:55:12 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 19:02:11 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 19:02:11 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 19:26:17 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 19:26:17 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 19:39:18 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 19:39:18 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 19:39:54 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 19:39:54 UTC] PHP Notice:  Undefined variable: msg in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 199
+[23-Aug-2022 19:40:27 UTC] PHP Warning:  include_once(lib/recaptchalib.php): failed to open stream: No such file or directory in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 19:40:27 UTC] PHP Warning:  include_once(): Failed opening 'lib/recaptchalib.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 19:40:27 UTC] PHP Warning:  Use of undefined constant secret_key - assumed 'secret_key' (this will throw an Error in a future version of PHP) in /home/freeper1/public_html/faucets/send_faucet.php on line 17
+[23-Aug-2022 19:40:32 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 19:40:51 UTC] PHP Warning:  include_once(lib/recaptchalib.php): failed to open stream: No such file or directory in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 19:40:51 UTC] PHP Warning:  include_once(): Failed opening 'lib/recaptchalib.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 19:40:51 UTC] PHP Warning:  Use of undefined constant secret_key - assumed 'secret_key' (this will throw an Error in a future version of PHP) in /home/freeper1/public_html/faucets/send_faucet.php on line 17
+[23-Aug-2022 19:43:27 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 19:43:27 UTC] PHP Notice:  Undefined index: bitcoin_address_id in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 238
+[23-Aug-2022 19:45:04 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 19:45:04 UTC] PHP Notice:  Undefined variable: msg in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 199
+[23-Aug-2022 19:45:58 UTC] PHP Warning:  include_once(lib/recaptchalib.php): failed to open stream: No such file or directory in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 19:45:58 UTC] PHP Warning:  include_once(): Failed opening 'lib/recaptchalib.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/freeper1/public_html/faucets/send_faucet.php on line 12
+[23-Aug-2022 19:45:58 UTC] PHP Warning:  Use of undefined constant secret_key - assumed 'secret_key' (this will throw an Error in a future version of PHP) in /home/freeper1/public_html/faucets/send_faucet.php on line 17
+[23-Aug-2022 19:46:03 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153
+[23-Aug-2022 19:46:27 UTC] PHP Notice:  Undefined index: user in /home/freeper1/public_html/faucets/bitcoin-faucet.php on line 153

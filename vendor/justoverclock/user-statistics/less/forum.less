@@ -1,0 +1,110 @@
+
+
+.user-stats>ul>li {
+  margin-right: 1rem;
+  padding: 3px;
+  border-radius: 5px;
+}
+img.user-stats {
+  max-width: 22px;
+  width: 100%;
+  margin-right: 8px;
+}
+.user-stats {
+  vertical-align: middle;
+}
+i.far.fa-clock.userstats {
+  margin-right: 5px;
+  color: goldenrod;
+}
+i.far.fa-comment-dots.userstats {
+  margin-right: 5px;
+  color: coral;
+}
+i.fas.fa-pen-nib.userstats {
+  margin-right: 5px;
+  color: cornflowerblue;
+}
+i.fas.fa-check-circle.userstats {
+  margin-right: 5px;
+  color: greenyellow;
+}
+.CommentPost.Post {
+  .user-stats > ul {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    margin-left: -40px;
+    opacity: 0;
+    transition: 0.3s;
+  }
+}
+.CommentPost.Post:hover {
+  .user-stats > ul {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    margin-left: -40px;
+    opacity: 1;
+  }
+}
+i.fas.fa-thumbs-up.userstats {
+  margin-right: 5px;
+  color: deepskyblue;
+}
+img.like-badge {
+  width: 40px;
+}
+
+li.item-topLikeReceived {
+  position: absolute;
+  left: 31px;
+  top: 90px;
+}
+
+@media (max-width: 767px) {
+  li.item-topLikeReceived {
+    .Badge-like {
+      display: none;
+    }
+  }
+}
+
+.Badge-like {
+  align-items: center;
+  background: #0088bb;
+  border: 1.2px solid #fff;
+  border-radius: 20em;
+  color: #fff;
+  padding-left: 8px;
+  padding-right: 8px;
+  display: flex;
+  font-size: 0.77em;
+  font-weight: 400;
+  height: 1.8em;
+  justify-content: center;
+  line-height: 1;
+  min-width: 70px;
+  width: 100%;
+  position: absolute;
+  top: -16px;
+  left: -14px;
+}
+.Badge-like.ten {
+  background: #157700;
+}
+.Badge-like.fifthy {
+  background: #593486;
+}
+.Badge-like.hundred {
+  background: #ff6a04;
+}
+.Badge-like.twohundred {
+  background: #00776a;
+}
+.Badge-like.threehundred {
+  background: #fc0000;
+}
+.Badge-like.fivehundred {
+  background: #c200ff;
+}
