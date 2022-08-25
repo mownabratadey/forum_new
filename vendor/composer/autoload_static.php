@@ -256,6 +256,7 @@ class ComposerStaticInit0c73a0a3ddc685fc2c98f7e6eb3a2643
         array (
             'Cron\\' => 5,
             'ClarkWinkelmann\\PredefinedAvatars\\' => 34,
+            'ClarkWinkelmann\\Mailing\\' => 24,
             'ClarkWinkelmann\\LikesReceived\\' => 30,
             'ClarkWinkelmann\\EmojioneArea\\' => 29,
             'Carbon\\' => 7,
@@ -804,6 +805,10 @@ class ComposerStaticInit0c73a0a3ddc685fc2c98f7e6eb3a2643
         'ClarkWinkelmann\\PredefinedAvatars\\' => 
         array (
             0 => __DIR__ . '/..' . '/clarkwinkelmann/flarum-ext-predefined-avatars/src',
+        ),
+        'ClarkWinkelmann\\Mailing\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/clarkwinkelmann/flarum-ext-mailing/src',
         ),
         'ClarkWinkelmann\\LikesReceived\\' => 
         array (

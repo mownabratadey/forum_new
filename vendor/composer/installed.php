@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '29fca4b928bcfe879cc734820e4b20b11a93f89d',
         'name' => 'flarum/flarum',
         'dev' => true,
     ),
@@ -95,6 +95,15 @@
             'install_path' => __DIR__ . '/../clarkwinkelmann/flarum-ext-likes-received',
             'aliases' => array(),
             'reference' => '7f28ba8e69d660182fcaac8f9670d9459e276956',
+            'dev_requirement' => false,
+        ),
+        'clarkwinkelmann/flarum-ext-mailing' => array(
+            'pretty_version' => '1.0.0',
+            'version' => '1.0.0.0',
+            'type' => 'flarum-extension',
+            'install_path' => __DIR__ . '/../clarkwinkelmann/flarum-ext-mailing',
+            'aliases' => array(),
+            'reference' => 'e5e636fd30894c697b633d8e6908b7ef29914860',
             'dev_requirement' => false,
         ),
         'clarkwinkelmann/flarum-ext-predefined-avatars' => array(
@@ -317,12 +326,12 @@
             'dev_requirement' => false,
         ),
         'flarum/flarum' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '29fca4b928bcfe879cc734820e4b20b11a93f89d',
             'dev_requirement' => false,
         ),
         'flarum/lang-english' => array(
@@ -747,6 +756,12 @@
             'aliases' => array(),
             'reference' => '3dbbae93d44efed81942dc9b7070b01e87e58c34',
             'dev_requirement' => false,
+        ),
+        'kilowhat/flarum-ext-mailing' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => '*',
+            ),
         ),
         'laminas/laminas-diactoros' => array(
             'pretty_version' => '2.14.0',

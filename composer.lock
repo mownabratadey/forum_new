@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "52bf80187f2cb9a28c54bcdf08fe8432",
+    "content-hash": "edeb4973aa62789694c14199f22ad5a9",
     "packages": [
         {
             "name": "antoinefr/flarum-ext-money",
@@ -521,6 +521,73 @@
                 "source": "https://github.com/clarkwinkelmann/flarum-ext-likes-received"
             },
             "time": "2022-05-05T14:59:19+00:00"
+        },
+        {
+            "name": "clarkwinkelmann/flarum-ext-mailing",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/clarkwinkelmann/flarum-ext-mailing.git",
+                "reference": "e5e636fd30894c697b633d8e6908b7ef29914860"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/clarkwinkelmann/flarum-ext-mailing/zipball/e5e636fd30894c697b633d8e6908b7ef29914860",
+                "reference": "e5e636fd30894c697b633d8e6908b7ef29914860",
+                "shasum": ""
+            },
+            "require": {
+                "flarum/core": "^1.0"
+            },
+            "replace": {
+                "kilowhat/flarum-ext-mailing": "*"
+            },
+            "type": "flarum-extension",
+            "extra": {
+                "flarum-extension": {
+                    "title": "Mailing",
+                    "category": "feature",
+                    "icon": {
+                        "name": "fas fa-envelope",
+                        "backgroundColor": "#684ba6",
+                        "color": "#fff"
+                    }
+                },
+                "flagrow": {
+                    "discuss": "https://discuss.flarum.org/d/20443"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "ClarkWinkelmann\\Mailing\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Clark Winkelmann",
+                    "email": "clark.winkelmann@gmail.com",
+                    "homepage": "https://clarkwinkelmann.com/",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Send individual or mass mailing to Flarum users",
+            "keywords": [
+                "email",
+                "extension",
+                "flarum",
+                "mailing",
+                "mass-mailing"
+            ],
+            "support": {
+                "forum": "https://discuss.flarum.org/d/20443",
+                "issues": "https://github.com/clarkwinkelmann/flarum-ext-mailing/issues",
+                "source": "https://github.com/clarkwinkelmann/flarum-ext-mailing"
+            },
+            "time": "2021-06-11T01:09:52+00:00"
         },
         {
             "name": "clarkwinkelmann/flarum-ext-predefined-avatars",

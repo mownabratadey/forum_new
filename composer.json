@@ -27,6 +27,7 @@
         "askvortsov/flarum-moderator-warnings": "^0.6.1",
         "askvortsov/flarum-rich-text": "*",
         "clarkwinkelmann/flarum-ext-emojionearea": "^1.0",
+        "clarkwinkelmann/flarum-ext-mailing": "^1.0",
         "clarkwinkelmann/flarum-ext-predefined-avatars": "*",
         "darkle/fancybox": "^1.1",
         "davwheat/flarum-ext-ads": "*",

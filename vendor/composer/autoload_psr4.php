@@ -137,6 +137,7 @@ return array(
     'Davwheat\\Ads\\' => array($vendorDir . '/davwheat/flarum-ext-ads/src'),
     'Cron\\' => array($vendorDir . '/dragonmantank/cron-expression/src/Cron'),
     'ClarkWinkelmann\\PredefinedAvatars\\' => array($vendorDir . '/clarkwinkelmann/flarum-ext-predefined-avatars/src'),
+    'ClarkWinkelmann\\Mailing\\' => array($vendorDir . '/clarkwinkelmann/flarum-ext-mailing/src'),
     'ClarkWinkelmann\\LikesReceived\\' => array($vendorDir . '/clarkwinkelmann/flarum-ext-likes-received/src'),
     'ClarkWinkelmann\\EmojioneArea\\' => array($vendorDir . '/clarkwinkelmann/flarum-ext-emojionearea/src'),
     'Carbon\\' => array($vendorDir . '/nesbot/carbon/src/Carbon'),
