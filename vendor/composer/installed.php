@@ -5,11 +5,20 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '29fca4b928bcfe879cc734820e4b20b11a93f89d',
+        'reference' => '9dfd36fc6b2e43fe7bf16305d5da9493c19b214b',
         'name' => 'flarum/flarum',
         'dev' => true,
     ),
     'versions' => array(
+        'acpl/mobile-tab' => array(
+            'pretty_version' => '1.1.0',
+            'version' => '1.1.0.0',
+            'type' => 'flarum-extension',
+            'install_path' => __DIR__ . '/../acpl/mobile-tab',
+            'aliases' => array(),
+            'reference' => 'c60e9d67605d09b8a30cc8a3b58874a91d9cc35d',
+            'dev_requirement' => false,
+        ),
         'antoinefr/flarum-ext-money' => array(
             'pretty_version' => 'v1.2.0',
             'version' => '1.2.0.0',
@@ -331,7 +340,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '29fca4b928bcfe879cc734820e4b20b11a93f89d',
+            'reference' => '9dfd36fc6b2e43fe7bf16305d5da9493c19b214b',
             'dev_requirement' => false,
         ),
         'flarum/lang-english' => array(

@@ -1,6 +1,83 @@
 {
     "packages": [
         {
+            "name": "acpl/mobile-tab",
+            "version": "1.1.0",
+            "version_normalized": "1.1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/android-com-pl/mobile-tab.git",
+                "reference": "c60e9d67605d09b8a30cc8a3b58874a91d9cc35d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/android-com-pl/mobile-tab/zipball/c60e9d67605d09b8a30cc8a3b58874a91d9cc35d",
+                "reference": "c60e9d67605d09b8a30cc8a3b58874a91d9cc35d",
+                "shasum": ""
+            },
+            "require": {
+                "flarum/core": "^1.2"
+            },
+            "time": "2022-01-20T16:19:55+00:00",
+            "type": "flarum-extension",
+            "extra": {
+                "flarum-extension": {
+                    "title": "Mobile tab",
+                    "category": "theme",
+                    "icon": {
+                        "name": "fas fa-ellipsis-h",
+                        "backgroundColor": "#0F9D58",
+                        "color": "#fff"
+                    }
+                },
+                "optional-dependencies": [
+                    "flarum/tags"
+                ],
+                "flarum-cli": {
+                    "modules": {
+                        "admin": false,
+                        "forum": true,
+                        "js": true,
+                        "jsCommon": false,
+                        "gitConf": true,
+                        "githubActions": true,
+                        "prettier": true,
+                        "typescript": true,
+                        "bundlewatch": false,
+                        "backendTesting": false,
+                        "editorConfig": true,
+                        "styleci": true
+                    }
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Acpl\\MobileTab\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Rafał Całka",
+                    "email": "rafal.calka@android.com.pl",
+                    "role": "Developer"
+                }
+            ],
+            "keywords": [
+                "flarum"
+            ],
+            "support": {
+                "forum": "https://discuss.flarum.org/d/28216-mobile-tab",
+                "issues": "https://github.com/android-com-pl/mobile-tab/issues",
+                "source": "https://github.com/android-com-pl/mobile-tab"
+            },
+            "install-path": "../acpl/mobile-tab"
+        },
+        {
             "name": "antoinefr/flarum-ext-money",
             "version": "v1.2.0",
             "version_normalized": "1.2.0.0",

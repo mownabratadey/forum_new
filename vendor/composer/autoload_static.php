@@ -272,6 +272,7 @@ class ComposerStaticInit0c73a0a3ddc685fc2c98f7e6eb3a2643
             'Askvortsov\\FlarumCategories\\' => 28,
             'AntoineFr\\Online\\' => 17,
             'AntoineFr\\Money\\' => 16,
+            'Acpl\\MobileTab\\' => 15,
         ),
     );
 
@@ -845,6 +846,10 @@ class ComposerStaticInit0c73a0a3ddc685fc2c98f7e6eb3a2643
         'AntoineFr\\Money\\' => 
         array (
             0 => __DIR__ . '/..' . '/antoinefr/flarum-ext-money/src',
+        ),
+        'Acpl\\MobileTab\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/acpl/mobile-tab/src',
         ),
     );
 

@@ -147,4 +147,5 @@ return array(
     'Askvortsov\\FlarumCategories\\' => array($vendorDir . '/askvortsov/flarum-categories/src'),
     'AntoineFr\\Online\\' => array($vendorDir . '/antoinefr/flarum-ext-online/src'),
     'AntoineFr\\Money\\' => array($vendorDir . '/antoinefr/flarum-ext-money/src'),
+    'Acpl\\MobileTab\\' => array($vendorDir . '/acpl/mobile-tab/src'),
 );

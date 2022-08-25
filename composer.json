@@ -21,6 +21,7 @@
         "docs": "https://docs.flarum.org/"
     },
     "require": {
+        "acpl/mobile-tab": "*",
         "antoinefr/flarum-ext-money": "^1.2",
         "antoinefr/flarum-ext-online": "^1.0",
         "askvortsov/flarum-categories": "^3.0",
