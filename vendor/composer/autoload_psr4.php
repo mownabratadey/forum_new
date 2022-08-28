@@ -68,6 +68,7 @@ return array(
     'MatthiasMullie\\PathConverter\\' => array($vendorDir . '/matthiasmullie/path-converter/src'),
     'MatthiasMullie\\Minify\\' => array($vendorDir . '/matthiasmullie/minify/src'),
     'Malago\\Achievements\\' => array($vendorDir . '/malago/flarum-achievements/src'),
+    'Madchatthew\\ThemeLightShadow\\' => array($vendorDir . '/madchatthew/themelightshadow/src'),
     'League\\MimeTypeDetection\\' => array($vendorDir . '/league/mime-type-detection/src'),
     'League\\Flysystem\\' => array($vendorDir . '/league/flysystem/src'),
     'League\\Config\\' => array($vendorDir . '/league/config/src'),

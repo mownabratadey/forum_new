@@ -1,0 +1,14 @@
+{
+  "name": "@madchatthew/themelightshadow",
+  "version": "0.2.0",
+  "private": true,
+  "dependencies": {
+    "flarum-webpack-config": "^1.0.0",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  }
+}

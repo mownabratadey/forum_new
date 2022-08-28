@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dae5789b1254f0f7ac5342fe57e8c7ca",
+    "content-hash": "bd42d82b3078ae20ab42b65187345994",
     "packages": [
         {
             "name": "acpl/mobile-tab",
@@ -5310,6 +5310,74 @@
             "time": "2021-12-06T14:28:09+00:00"
         },
         {
+            "name": "justoverclock/first-visit-popup",
+            "version": "0.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/justoverclockl/first-visit-popup.git",
+                "reference": "c11f27253e88f9184aef5759e7949a3b9da321df"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/justoverclockl/first-visit-popup/zipball/c11f27253e88f9184aef5759e7949a3b9da321df",
+                "reference": "c11f27253e88f9184aef5759e7949a3b9da321df",
+                "shasum": ""
+            },
+            "require": {
+                "flarum/core": "^1.2.0"
+            },
+            "type": "flarum-extension",
+            "extra": {
+                "flarum-extension": {
+                    "title": "First Visit Popup",
+                    "category": "features",
+                    "icon": {
+                        "name": "far fa-bell",
+                        "color": "purple",
+                        "backgroundColor": "white"
+                    }
+                },
+                "flarum-cli": {
+                    "modules": {
+                        "admin": true,
+                        "forum": true,
+                        "js": true,
+                        "jsCommon": false,
+                        "css": true,
+                        "locale": true,
+                        "gitConf": true,
+                        "githubActions": false,
+                        "prettier": true,
+                        "typescript": false,
+                        "bundlewatch": true,
+                        "backendTesting": false,
+                        "editorConfig": true,
+                        "styleci": true
+                    }
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Marco Colia",
+                    "email": "info@flarum.it",
+                    "role": "Developer"
+                }
+            ],
+            "description": "First Visit Popup",
+            "keywords": [
+                "first visit popup"
+            ],
+            "support": {
+                "issues": "https://github.com/justoverclockl/first-visit-popup/issues",
+                "source": "https://github.com/justoverclockl/first-visit-popup/tree/0.1.4"
+            },
+            "time": "2022-05-08T23:07:19+00:00"
+        },
+        {
             "name": "justoverclock/flarum-ext-feedback",
             "version": "0.1.9",
             "source": {
@@ -6341,6 +6409,61 @@
                 }
             ],
             "time": "2022-04-17T13:12:02+00:00"
+        },
+        {
+            "name": "madchatthew/themelightshadow",
+            "version": "0.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Madchatthew/themelightshadow.git",
+                "reference": "e1e3cd2a7dcc846b8688058197584dc52ed3e825"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Madchatthew/themelightshadow/zipball/e1e3cd2a7dcc846b8688058197584dc52ed3e825",
+                "reference": "e1e3cd2a7dcc846b8688058197584dc52ed3e825",
+                "shasum": ""
+            },
+            "require": {
+                "flarum/core": "^1.0.0"
+            },
+            "type": "flarum-extension",
+            "extra": {
+                "flarum-extension": {
+                    "title": "Theme Light Shadow",
+                    "icon": {
+                        "Image": "resources/icon.png",
+                        "backgroundSize": "75%",
+                        "backgroundPosition": "center",
+                        "backgroundRepeat": "no-repeat"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Madchatthew\\ThemeLightShadow\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Madchatthew",
+                    "email": "chad.jessen@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Theme for Flarum",
+            "keywords": [
+                "flarum"
+            ],
+            "support": {
+                "issues": "https://github.com/Madchatthew/themelightshadow/issues",
+                "source": "https://github.com/Madchatthew/themelightshadow/tree/0.2.1"
+            },
+            "time": "2022-05-20T16:50:10+00:00"
         },
         {
             "name": "malago/flarum-achievements",

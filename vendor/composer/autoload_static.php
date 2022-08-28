@@ -163,6 +163,7 @@ class ComposerStaticInit0c73a0a3ddc685fc2c98f7e6eb3a2643
             'MatthiasMullie\\PathConverter\\' => 29,
             'MatthiasMullie\\Minify\\' => 22,
             'Malago\\Achievements\\' => 20,
+            'Madchatthew\\ThemeLightShadow\\' => 29,
         ),
         'L' => 
         array (
@@ -528,6 +529,10 @@ class ComposerStaticInit0c73a0a3ddc685fc2c98f7e6eb3a2643
         'Malago\\Achievements\\' => 
         array (
             0 => __DIR__ . '/..' . '/malago/flarum-achievements/src',
+        ),
+        'Madchatthew\\ThemeLightShadow\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/madchatthew/themelightshadow/src',
         ),
         'League\\MimeTypeDetection\\' => 
         array (
