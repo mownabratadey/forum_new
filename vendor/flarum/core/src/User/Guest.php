@@ -10,7 +10,6 @@
 namespace Flarum\User;
 
 use Flarum\Group\Group;
-use Session;
 
 class Guest extends User
 {
@@ -31,8 +30,6 @@ class Guest extends User
         if (! isset($this->attributes['groups'])) {
             $this->attributes['groups'] = $this->relations['groups'] = Group::where('id', Group::GUEST_ID)->get();
         }
-
-        Session::put('refer', $this->attributes['groups']);
 
         return $this->attributes['groups'];
     }

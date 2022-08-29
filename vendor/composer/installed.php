@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '91b38fa9140ef8004a27384f17227d912b00e023',
+        'reference' => '572100c9227c959ae8b63859184fcce4fb308bd7',
         'name' => 'flarum/flarum',
         'dev' => true,
     ),
@@ -340,7 +340,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '91b38fa9140ef8004a27384f17227d912b00e023',
+            'reference' => '572100c9227c959ae8b63859184fcce4fb308bd7',
             'dev_requirement' => false,
         ),
         'flarum/lang-english' => array(
@@ -449,6 +449,15 @@
             'install_path' => __DIR__ . '/../flarum/tags',
             'aliases' => array(),
             'reference' => '5a102fc714828a2e227969599bf5aa5f522581cf',
+            'dev_requirement' => false,
+        ),
+        'fof/doorman' => array(
+            'pretty_version' => '1.1.1',
+            'version' => '1.1.1.0',
+            'type' => 'flarum-extension',
+            'install_path' => __DIR__ . '/../fof/doorman',
+            'aliases' => array(),
+            'reference' => '535771de73ab575adfc5f0b412aa11bcf1664fb1',
             'dev_requirement' => false,
         ),
         'fof/extend' => array(
@@ -1180,6 +1189,12 @@
             'aliases' => array(),
             'reference' => 'fc9bb7fb5388691fd7373cd44dcb4d63bbcf24df',
             'dev_requirement' => false,
+        ),
+        'reflar/doorman' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => '*',
+            ),
         ),
         'reflar/nightmode' => array(
             'dev_requirement' => false,

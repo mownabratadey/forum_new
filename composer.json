@@ -50,6 +50,7 @@
         "flarum/subscriptions": "*",
         "flarum/suspend": "*",
         "flarum/tags": "*",
+        "fof/doorman": "^1.1",
         "fof/nightmode": "*",
         "fof/share-social": "^1.1",
         "fof/sitemap": "^1.0",

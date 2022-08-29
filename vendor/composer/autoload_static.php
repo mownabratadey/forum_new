@@ -221,6 +221,7 @@ class ComposerStaticInit0c73a0a3ddc685fc2c98f7e6eb3a2643
             'FoF\\ShareSocial\\' => 16,
             'FoF\\NightMode\\' => 14,
             'FoF\\Extend\\' => 11,
+            'FoF\\Doorman\\' => 12,
             'Flarum\\Tags\\' => 12,
             'Flarum\\Suspend\\' => 15,
             'Flarum\\Subscriptions\\' => 21,
@@ -703,6 +704,10 @@ class ComposerStaticInit0c73a0a3ddc685fc2c98f7e6eb3a2643
         'FoF\\Extend\\' => 
         array (
             0 => __DIR__ . '/..' . '/fof/extend/src',
+        ),
+        'FoF\\Doorman\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/fof/doorman/src',
         ),
         'Flarum\\Tags\\' => 
         array (

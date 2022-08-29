@@ -111,6 +111,7 @@ return array(
     'FoF\\ShareSocial\\' => array($vendorDir . '/fof/share-social/src'),
     'FoF\\NightMode\\' => array($vendorDir . '/fof/nightmode/src'),
     'FoF\\Extend\\' => array($vendorDir . '/fof/extend/src'),
+    'FoF\\Doorman\\' => array($vendorDir . '/fof/doorman/src'),
     'Flarum\\Tags\\' => array($vendorDir . '/flarum/tags/src'),
     'Flarum\\Suspend\\' => array($vendorDir . '/flarum/suspend/src'),
     'Flarum\\Subscriptions\\' => array($vendorDir . '/flarum/subscriptions/src'),
