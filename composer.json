@@ -64,6 +64,7 @@
         "madchatthew/themelightshadow": "^0.2.1",
         "malago/flarum-achievements": "^0.5.5",
         "michaelbelgium/flarum-discussion-views": "^7.1",
+        "nearata/flarum-ext-no-self-likes": "^1.2",
         "noriods/auto-more": "^1.0",
         "v17development/flarum-blog": "^0.6.4",
         "v17development/flarum-seo": "^1.8",

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9b127958d857580ef0e0d68be3d4f518",
+    "content-hash": "3077cb8762a7d84ee311a31d5f613559",
     "packages": [
         {
             "name": "acpl/mobile-tab",
@@ -7092,6 +7092,63 @@
                 }
             ],
             "time": "2022-06-09T08:53:42+00:00"
+        },
+        {
+            "name": "nearata/flarum-ext-no-self-likes",
+            "version": "v1.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Nearata/flarum-ext-no-self-likes.git",
+                "reference": "1c607bdaa7ef6d91367ef133f771aad26b248d1c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Nearata/flarum-ext-no-self-likes/zipball/1c607bdaa7ef6d91367ef133f771aad26b248d1c",
+                "reference": "1c607bdaa7ef6d91367ef133f771aad26b248d1c",
+                "shasum": ""
+            },
+            "require": {
+                "flarum/core": "^1.0.0",
+                "flarum/likes": "*"
+            },
+            "type": "flarum-extension",
+            "extra": {
+                "flarum-extension": {
+                    "title": "No Self Likes",
+                    "category": "feature",
+                    "icon": {
+                        "name": "fas fa-thumbs-up",
+                        "backgroundColor": "#63C7B2",
+                        "color": "#fff"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Nearata\\NoSelfLikes\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Unlicense"
+            ],
+            "authors": [
+                {
+                    "name": "Nearata",
+                    "email": "nearata@protonmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "An extension that disallow users to like their own posts.",
+            "keywords": [
+                "flarum"
+            ],
+            "support": {
+                "forum": "https://discuss.flarum.org/d/26701",
+                "issues": "https://github.com/Nearata/flarum-ext-no-self-likes/issues",
+                "source": "https://github.com/Nearata/flarum-ext-no-self-likes"
+            },
+            "time": "2022-08-04T17:13:35+00:00"
         },
         {
             "name": "nesbot/carbon",

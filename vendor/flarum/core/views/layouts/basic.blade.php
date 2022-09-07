@@ -1,7 +1,6 @@
 @php
   $primaryColor = $settings->get('theme_primary_color', '#000');
 @endphp
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -9,6 +8,7 @@
     {{-- TODO: Change below to @hasSection when Laravel is upgraded --}}
     <title>@if ($__env->hasSection('title')) @yield('title') - @endif{{ $settings->get('forum_title') }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+    <link rel="icon" type="image/x-icon" href="assets/favicon-16x16.png">
 
     <style>
       * {
@@ -39,8 +39,7 @@
         text-decoration: underline;
       }
       .container {
-        margin: 100px auto;
-        max-width: 450px;
+        /*margin: 100px auto;*/
         padding: 0 15px;
       }
       .button {

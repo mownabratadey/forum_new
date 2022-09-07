@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '572100c9227c959ae8b63859184fcce4fb308bd7',
+        'reference' => '6e63c8315c3fa3a42827a1ebfd7a05f66a2ace06',
         'name' => 'flarum/flarum',
         'dev' => true,
     ),
@@ -340,7 +340,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '572100c9227c959ae8b63859184fcce4fb308bd7',
+            'reference' => '6e63c8315c3fa3a42827a1ebfd7a05f66a2ace06',
             'dev_requirement' => false,
         ),
         'flarum/lang-english' => array(
@@ -975,6 +975,15 @@
             'replaced' => array(
                 0 => '^1.0',
             ),
+        ),
+        'nearata/flarum-ext-no-self-likes' => array(
+            'pretty_version' => 'v1.2.1',
+            'version' => '1.2.1.0',
+            'type' => 'flarum-extension',
+            'install_path' => __DIR__ . '/../nearata/flarum-ext-no-self-likes',
+            'aliases' => array(),
+            'reference' => '1c607bdaa7ef6d91367ef133f771aad26b248d1c',
+            'dev_requirement' => false,
         ),
         'nesbot/carbon' => array(
             'pretty_version' => '2.61.0',

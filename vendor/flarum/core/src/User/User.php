@@ -165,7 +165,6 @@ class User extends AbstractModel
         $user->email = $email;
         $user->password = $password;
         $user->joined_at = Carbon::now();
-        $user->refer = 1;
 
         $user->raise(new Registered($user));
 

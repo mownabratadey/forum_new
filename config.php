@@ -30,7 +30,7 @@
 // );
 
 return array (
-  'debug' => true,
+  'debug' => false,
   'database' => 
   array (
     'driver' => 'mysql',

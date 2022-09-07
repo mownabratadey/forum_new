@@ -61,6 +61,7 @@ return array(
     'Psr\\EventDispatcher\\' => array($vendorDir . '/psr/event-dispatcher/src'),
     'Psr\\Container\\' => array($vendorDir . '/psr/container/src'),
     'Opis\\Closure\\' => array($vendorDir . '/opis/closure/src'),
+    'Nearata\\NoSelfLikes\\' => array($vendorDir . '/nearata/flarum-ext-no-self-likes/src'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
     'Middlewares\\Utils\\' => array($vendorDir . '/middlewares/utils/src'),
     'Middlewares\\' => array($vendorDir . '/middlewares/base-path/src', $vendorDir . '/middlewares/base-path-router/src', $vendorDir . '/middlewares/request-handler/src'),

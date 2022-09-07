@@ -154,6 +154,10 @@ class ComposerStaticInit0c73a0a3ddc685fc2c98f7e6eb3a2643
         array (
             'Opis\\Closure\\' => 13,
         ),
+        'N' => 
+        array (
+            'Nearata\\NoSelfLikes\\' => 20,
+        ),
         'M' => 
         array (
             'Monolog\\' => 8,
@@ -500,6 +504,10 @@ class ComposerStaticInit0c73a0a3ddc685fc2c98f7e6eb3a2643
         'Opis\\Closure\\' => 
         array (
             0 => __DIR__ . '/..' . '/opis/closure/src',
+        ),
+        'Nearata\\NoSelfLikes\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/nearata/flarum-ext-no-self-likes/src',
         ),
         'Monolog\\' => 
         array (

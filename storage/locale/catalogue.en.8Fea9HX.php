@@ -922,49 +922,6 @@ The MIME value returned by Fileinfo can be different from server to server!
     'fof-default-user-preferences.admin.settings.fofNightMode-help' => '0 - automatic, 1 - light mode, 2 - dark mode',
     'fof-default-user-preferences.admin.settings.fofNightMode_perDevice' => 'FoF Nightmode: Use per device settings',
     'fof-default-user-preferences.admin.settings.fofNightMode_perDevice-help' => 'Use per device preferences for nightmode settings',
-    'fof-doorman.forum.email.subject' => 'Invite to Join',
-    'fof-doorman.forum.email.body' => 'Hello,
-
-You have been invited to sign up for {forum}.
-
-When you are ready to create your account, simply click the following link and enter the code when signing up:
-
-Url: {url}
-Invite code: {code}
-
-If you received this in error, please ignore this email.
-',
-    'fof-doorman.forum.sign_up.invalid_doorkey' => 'The invite code your entered is invalid.',
-    'fof-doorman.forum.sign_up.doorkey_required' => 'Please enter an invite code.',
-    'fof-doorman.forum.sign_up.doorman_placeholder' => 'Invite Code',
-    'fof-doorman.forum.sign_up.doorman_placeholder_optional' => 'Invite Code (optional)',
-    'fof-doorman.admin.modal.title' => 'Send Invite Codes',
-    'fof-doorman.admin.modal.group' => 'Sending invites for {group} group',
-    'fof-doorman.admin.modal.help' => 'Accepts a comma, space, or comma-space seperated list. Type an individual email or paste a list then press space to add it/them.',
-    'fof-doorman.admin.modal.placeholder' => 'Enter emails here',
-    'fof-doorman.admin.modal.invalid_emails' => 'The following email(s) are invalid: {emails}',
-    'fof-doorman.admin.modal.max_use_conflict' => 'The number of emails exceeds the max number of uses for this code.',
-    'fof-doorman.admin.modal.send' => 'Send Emails',
-    'fof-doorman.admin.modal.success' => 'Emails successfully sent',
-    'fof-doorman.admin.invalid_doorkey' => 'The invite code you provided is invalid.',
-    'fof-doorman.admin.doorkey_required' => 'You must provide an Invite Code',
-    'fof-doorman.admin.nav.desc' => 'Create invite codes for users to sign up and be assigned to a group',
-    'fof-doorman.admin.page.title' => 'Doorman',
-    'fof-doorman.admin.page.doorkey.used_times' => '{remaining, plural, one {{remaining} Use left} other {{remaining} Uses left}}',
-    'fof-doorman.admin.page.doorkey.title' => 'Invite Codes',
-    'fof-doorman.admin.page.doorkey.help.key' => 'Key: Code the user will type in when registering.',
-    'fof-doorman.admin.page.doorkey.help.group' => 'Group: The group the user will be added to when the register.',
-    'fof-doorman.admin.page.doorkey.help.max' => 'Max Uses: The max number of times the code can be used, set to 0 for unlimited uses',
-    'fof-doorman.admin.page.doorkey.help.activates' => 'Activates User: Automatically activates the user when they register.',
-    'fof-doorman.admin.page.doorkey.warning' => 'This invite code has been used its max number of times.',
-    'fof-doorman.admin.page.doorkey.key' => 'Key',
-    'fof-doorman.admin.page.doorkey.max_uses' => 'Max Uses',
-    'fof-doorman.admin.page.doorkey.heading.key' => 'Key',
-    'fof-doorman.admin.page.doorkey.heading.group' => 'Group',
-    'fof-doorman.admin.page.doorkey.heading.activate' => 'Activates User',
-    'fof-doorman.admin.page.doorkey.heading.max_uses' => 'Max Uses',
-    'fof-doorman.admin.page.doorkey.allow-public.title' => 'Allow public Sign Up',
-    'fof-doorman.admin.page.doorkey.allow-public.switch-label' => 'Make invite code optional when signing up',
     'flarum-suspend.admin.permissions.suspend_users_label' => 'Suspend users',
     'flarum-suspend.forum.notifications.user_suspended_text' => 'You have been suspended for {timeReadable}',
     'flarum-suspend.forum.notifications.user_suspended_indefinite_text' => 'You have been suspended indefinitely',

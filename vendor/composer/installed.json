@@ -7397,6 +7397,66 @@
             "install-path": "../monolog/monolog"
         },
         {
+            "name": "nearata/flarum-ext-no-self-likes",
+            "version": "v1.2.1",
+            "version_normalized": "1.2.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Nearata/flarum-ext-no-self-likes.git",
+                "reference": "1c607bdaa7ef6d91367ef133f771aad26b248d1c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Nearata/flarum-ext-no-self-likes/zipball/1c607bdaa7ef6d91367ef133f771aad26b248d1c",
+                "reference": "1c607bdaa7ef6d91367ef133f771aad26b248d1c",
+                "shasum": ""
+            },
+            "require": {
+                "flarum/core": "^1.0.0",
+                "flarum/likes": "*"
+            },
+            "time": "2022-08-04T17:13:35+00:00",
+            "type": "flarum-extension",
+            "extra": {
+                "flarum-extension": {
+                    "title": "No Self Likes",
+                    "category": "feature",
+                    "icon": {
+                        "name": "fas fa-thumbs-up",
+                        "backgroundColor": "#63C7B2",
+                        "color": "#fff"
+                    }
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Nearata\\NoSelfLikes\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Unlicense"
+            ],
+            "authors": [
+                {
+                    "name": "Nearata",
+                    "email": "nearata@protonmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "An extension that disallow users to like their own posts.",
+            "keywords": [
+                "flarum"
+            ],
+            "support": {
+                "forum": "https://discuss.flarum.org/d/26701",
+                "issues": "https://github.com/Nearata/flarum-ext-no-self-likes/issues",
+                "source": "https://github.com/Nearata/flarum-ext-no-self-likes"
+            },
+            "install-path": "../nearata/flarum-ext-no-self-likes"
+        },
+        {
             "name": "nesbot/carbon",
             "version": "2.61.0",
             "version_normalized": "2.61.0.0",
