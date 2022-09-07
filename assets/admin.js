@@ -172,4 +172,4 @@ var module={};
 
 flarum.extensions['antoinefr-money']=module.exports;
 
-//# sourceMappingURL=https://freeperfectmoney.com/assets/admin.js.map
+//# sourceMappingURL=http://localhost/forum1/forum_new/assets/admin.js.map

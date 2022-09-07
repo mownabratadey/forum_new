@@ -555,4 +555,4 @@ var module={};
 
 flarum.extensions['acpl-mobile-tab']=module.exports;
 
-//# sourceMappingURL=https://freeperfectmoney.com/assets/forum.js.map
+//# sourceMappingURL=http://localhost/forum1/forum_new/assets/forum.js.map
